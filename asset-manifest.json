@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/atari_show/static/css/main.29cd7cc5.css",
+    "main.js": "/atari_show/static/js/main.11635ca9.js",
+    "static/js/787.84330345.chunk.js": "/atari_show/static/js/787.84330345.chunk.js",
+    "static/media/icons8-line.svg": "/atari_show/static/media/icons8-line.6154acd95448b2ec8d486294c18636eb.svg",
+    "index.html": "/atari_show/index.html",
+    "main.29cd7cc5.css.map": "/atari_show/static/css/main.29cd7cc5.css.map",
+    "main.11635ca9.js.map": "/atari_show/static/js/main.11635ca9.js.map",
+    "787.84330345.chunk.js.map": "/atari_show/static/js/787.84330345.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cd7cc5.css",
+    "static/js/main.11635ca9.js"
+  ]
+}
